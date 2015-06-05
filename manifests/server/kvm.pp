@@ -1,3 +1,3 @@
-class role::server::kvm {
+class roles::server::kvm {
    include ::libvirt
 }
